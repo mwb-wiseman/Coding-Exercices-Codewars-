@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80c575cc-ef06-4376-a3bf-7de6c6197cc4": {
+      "ProjectGuid": "80c575cc-ef06-4376-a3bf-7de6c6197cc4",
+      "DisplayName": "AddingBigNumbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
