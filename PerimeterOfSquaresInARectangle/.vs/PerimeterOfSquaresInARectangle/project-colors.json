@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d509b149-39fc-45a3-91cc-ada8432a6506": {
+      "ProjectGuid": "d509b149-39fc-45a3-91cc-ada8432a6506",
+      "DisplayName": "PerimeterOfSquaresInARectangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
